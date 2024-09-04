@@ -1,11 +1,3 @@
 # Weather App in ReactJS
-
-Get API Here:
-
-https://openweathermap.org
-
-## Commands:
-
-Run: `npm run start`
-
-Install deps: `npm install`
+Created a Weather App that uses OPEANWEATHER API to give the weather information for any location
+![Alt text](./src/weather.png)
